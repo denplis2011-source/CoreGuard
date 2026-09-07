@@ -9,7 +9,7 @@ from telegram.ext import (
 )
 
 # ================== CONFIGURATION ==================
-TOKEN = "8885507527:AAGMTT4NT_OGXgbwr5CATf45amLKa5wwUYM"                    # ← Remplace par ton vrai token
+TOKEN = "TOKEN"                    # ← Remplace par ton vrai token
 OPENAI_API_KEY = ""                        # laisse vide pour l’instant
 MAX_WARNINGS = 3
 MUTE_DURATION = 3600
